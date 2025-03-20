@@ -1,0 +1,51 @@
+id,name,age,income,date_joined,status,email,purchase_count,last_purchase,notes
+1,John Smith,34,52000,2020-01-15,active,john.smith@email.com,12,2023-05-20,Regular customer
+2,Emily Johnson,28,48500,2021-03-22,active,emily.j@email.com,8,2023-06-15,Prefers online shopping
+3,Michael Brown,45,,2019-11-05,inactive,michael.b@email.com,3,2022-01-10,
+4,Sarah Williams,31,61200,2022-01-30,active,,15,2023-07-01,Frequent buyer
+5,David Miller,39,57800,2020-08-17,active,david.m@email.com,10,,Premium member
+6,,42,49300,2021-05-11,active,robert.w@email.com,7,2023-04-12,
+7,Jennifer Davis,36,54700,,active,jennifer.d@email.com,9,2023-06-28,Loyalty program
+8,James Wilson,29,46500,2022-02-14,pending,james.w@email.com,5,2023-03-15,New customer
+9,Lisa Moore,33,52000,2021-07-19,active,lisa.m@email.com,11,2023-06-30,
+10,John Smith,34,52000,2020-01-15,active,john.smith@email.com,12,2023-05-20,Regular customer
+11,Robert Taylor,47,63500,2020-04-23,inactive,,2,2022-11-05,Rarely shops
+12,Emma Clark,30,50200,2021-09-08,active,emma.c@email.com,14,2023-07-02,
+13,Thomas Anderson,41,59000,2020-12-01,active,thomas.a@email.com,6,2023-02-18,Seasonal shopper
+14,Jessica Brown,32,51500,2021-11-27,active,jessica.b@email.com,13,2023-06-25,
+15,Michael Brown,45,55600,2019-11-05,inactive,michael.b@email.com,3,2022-01-10,
+16,Karen White,38,56700,2020-10-14,active,karen.w@email.com,9,2023-05-30,Prefers in-store
+17,Steven Lee,44,60800,2019-08-22,active,steven.l@email.com,16,2023-06-29,VIP customer
+18,Amanda Harris,27,45000,2022-03-05,pending,amanda.h@email.com,4,2023-04-10,
+19,Daniel Martin,37,54200,2021-01-18,active,daniel.m@email.com,7,2023-05-15,
+20,Michelle Lewis,35,53400,2020-07-09,active,michelle.l@email.com,10,2023-06-20,Birthday in July
+21,Christopher Allen,40,58900,2020-05-27,active,chris.a@email.com,11,2023-06-18,
+22,Laura Scott,31,49800,2021-08-12,active,laura.s@email.com,6,2023-03-22,
+23,Kevin Young,43,62100,2019-12-10,inactive,kevin.y@email.com,5,2022-05-17,
+24,Sarah Williams,31,61200,2022-01-30,active,sarah.w@email.com,15,2023-07-01,Frequent buyer
+25,Brian Walker,39,57300,2020-09-15,active,brian.w@email.com,8,2023-04-28,
+26,Melissa King,29,47500,2022-02-20,active,melissa.k@email.com,9,2023-06-05,
+27,Edward Wright,46,64000,2019-10-08,inactive,edward.w@email.com,4,2022-03-12,
+28,Nicole Turner,32,51800,2021-06-25,active,nicole.t@email.com,12,2023-06-15,
+29,George Hall,38,56500,2020-11-19,active,george.h@email.com,7,2023-05-10,
+30,Rebecca Adams,34,52500,2021-04-07,active,rebecca.a@email.com,10,2023-06-22,
+31,John Smith,34,52000,2020-01-15,active,john.smith@email.com,12,2023-05-20,Regular customer
+32,Patricia Campbell,41,59500,2020-03-30,active,patricia.c@email.com,13,2023-06-27,
+33,Kenneth Green,37,55100,2021-02-11,active,kenneth.g@email.com,8,2023-04-15,
+34,Stephanie Baker,30,48900,2021-10-05,active,stephanie.b@email.com,11,2023-06-10,
+35,Ronald Carter,45,63200,2019-09-18,inactive,ronald.c@email.com,3,2022-02-20,
+36,Deborah Evans,33,52300,2021-05-29,active,deborah.e@email.com,9,2023-05-25,
+37,Mark Collins,42,60100,2020-06-14,active,mark.c@email.com,14,2023-06-30,
+38,Lisa Moore,33,52000,2021-07-19,active,lisa.m@email.com,11,2023-06-30,
+39,Timothy Stewart,36,54900,2020-12-22,active,timothy.s@email.com,7,2023-03-18,
+40,Cynthia Morris,31,50500,2021-09-30,active,cynthia.m@email.com,10,2023-06-12,
+41,Larry Rogers,44,61500,2020-02-08,active,larry.r@email.com,12,2023-06-05,
+42,Angela Reed,29,47800,2022-01-25,active,angela.r@email.com,8,2023-05-20,
+43,Jeffrey Cook,39,57600,2020-08-03,active,jeffrey.c@email.com,11,2023-06-25,
+44,Dorothy Morgan,35,53700,2021-03-14,active,dorothy.m@email.com,9,2023-04-30,
+45,Gary Bell,40,58400,2020-05-09,active,gary.b@email.com,13,2023-06-28,
+46,Sandra Murphy,32,51200,2021-07-27,active,sandra.m@email.com,10,2023-06-15,
+47,Stephen Cooper,43,62400,2019-11-30,inactive,stephen.c@email.com,4,2022-04-10,
+48,Carol Richardson,37,55400,2020-10-25,active,carol.r@email.com,8,2023-05-05,
+49,Dennis Ward,41,59800,2020-04-12,active,dennis.w@email.com,11,2023-06-20,
+50,Ruth Torres,34,52800,2021-06-08,active,ruth.t@email.com,9,2023-05-15,
