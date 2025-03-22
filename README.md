@@ -4,6 +4,9 @@ A powerful and user-friendly Python tool for cleaning and visualizing CSV datase
 
 ---
 
+👉 [Launch the Web App](https://parzivalxiii-data-cleaner.streamlit.app)  
+*(No installation needed — runs in your browser)*
+
 ## ✨ Features
 
 - 🧼 **Data Cleaning**:
@@ -86,4 +89,4 @@ pip install -r requirements.txt
 MIT License
 
 ## 💡 Author
-ParzivalXIII https://github.com/ParzivalXIII
+[ParzivalXIII](https://github.com/ParzivalXIII)
