@@ -11,10 +11,11 @@ A powerful and user-friendly Python tool for cleaning and visualizing CSV datase
   - Remove duplicate rows
   - Convert column data types (object → numeric, datetime, categorical)
 
-- 📊 **Data Visualization**:
-  - Visualize any column with histograms or bar charts (auto-detects column type)
+- 📊 **Smart Data Visualization**:
+  - Detects column type and selects best chart (Bar, Histogram, Pie)
   - Set Seaborn styles, figure size, bin count, and plot title
   - View stats (mean, median, std dev) for numeric plots
+  - Download cleaned CSV or plot PNG
 
 - 🖥️ **Two Ways to Use**:
   - Command-line interface (CLI)
@@ -39,6 +40,7 @@ A powerful and user-friendly Python tool for cleaning and visualizing CSV datase
    * Upload any ```.csv``` file
    * Toggle cleaning options
    * Select column for visualization
+   * Select chart type
 
 2. **command-Line Interface**
    ```bash

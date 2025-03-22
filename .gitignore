@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Python-specific
+*.egg-info/
+*.egg
+*.pkl
+
+# IDE settings
+.vscode/
+.idea/
+
+# Streamlit cache
+.streamlit/
+
+# Plots or generated images (optional, add if you save plots)
+plots/
+
+# Cleaned datasets (optional, ignore large cleaned CSVs if generated)
+cleaned_data/
+*.cleaned.csv
