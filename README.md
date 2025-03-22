@@ -86,4 +86,4 @@ pip install -r requirements.txt
 MIT License
 
 ## 💡 Author
-ParzivalXIII
+ParzivalXIII https://github.com/ParzivalXIII
